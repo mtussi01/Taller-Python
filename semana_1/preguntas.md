@@ -47,14 +47,14 @@ Sí, Netflix/netflix.github.com.
 
 ### Respuesta
 
-(Pregunta repetida). Sí, está GitLab, Launchpad, Google Cloud, Cloud Source Repositories, SourceForge, Bitbucket
+AlphaFold es un programa de inteligencia artificial desarrollado por DeepMind de Alphabet/Google, que utiliza redes neuronales para realizar predicciones de la estructura de las proteínas mediante el sistema de aprendizaje profundo. Existen dos estrategias básicas para aproximarse a la predicción de la estructura: la predicción de novo, en la que se suelen utilizar métodos estocásticos; y la predicción por comparación, en la que se recurre a una biblioteca de estructuras previamente conocidas. En el supuesto de que tuviera alguna idea para modificar y mejorar Alphafold, y estuviera en algun servicio en la nube de código abierto, sí podria contribuir a hacerlo.
+
 
 ## Pregunta 6
 
 > ¿Se puede patentar un software?
 
 ### Respuesta
-AlphaFold es un programa de inteligencia artificial desarrollado por DeepMind de Alphabet/Google, que utiliza redes neuronales para realizar predicciones de la estructura de las proteínas mediante el sistema de aprendizaje profundo. Existen dos estrategias básicas para aproximarse a la predicción de la estructura: la predicción de novo, en la que se suelen utilizar métodos estocásticos; y la predicción por comparación, en la que se recurre a una biblioteca de estructuras previamente conocidas. En el supuesto de que tuviera alguna idea para modificar y mejorar Alphafold, y estuviera en algun servicio en la nube de código abierto, sí podria contribuir a hacerlo.
-
+No
 
 
