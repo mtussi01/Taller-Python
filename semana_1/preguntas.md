@@ -1,12 +1,11 @@
 # Preguntas de la semana
 
-A continuación encontrarás una seríe de preguntas y cuestiones que tienes que responder sobre este
-mismo documento. No éxactamente sobre este, sino editando el documento
-'Taller-Linux/semana\_1/preguntas.md' que encontrarás en tu fork (y en la copia local de tu fork).
-
-Una vez que hayas añadido las respuestas, si lo hiciste -como sugerimos- en la copia local de tu
-repositorio fork, empújalas con al repositorio remoto de tu fork para que podamos ver que
-conseguiste llevar a cabo esta tarea.
+A continuación encontrarás una seríe de cuestiones que debes responder en un
+documento Markdown llamado 'mis_respuestas.md' y que deberás ubicar en el mismo directorio que la
+fuente de esta página en tu fork del repositorio del taller. En [la sección "Resolviendo las
+preguntas semanales" de la página "Cómo trabajar con este
+taller"](../material_suplementario/como_trabajar.md#resolviendo-las-preguntas-semanales) encontrarás indicaciones sobre
+cómo hacerlo.
 
 ## Pregunta 1
 
@@ -26,7 +25,7 @@ Es un movimiento promovido por los países de la OCDE e impulsado por la Comisi�
 
 ## Pregunta 3
 
-> ¿Existe alguna otro servicio en la nube para desarrollar en colaboración projectos de código
+> ¿Existe alguna otro servicio en la nube para desarrollar en colaboración proyectos de código
 > libre?
 
 ### Respuesta
@@ -43,8 +42,8 @@ Sí, Netflix/netflix.github.com.
 
 ## Pregunta 5
 
-> ¿Existe alguna otro servicio en la nube para desarrollar en colaboración projectos de código
-> libre?
+> ¿Qué es AlphaFold? ¿Si quisieras ver las tripas de su código y aprender cómo está construido... o si
+> tuvieras una idea para modificar y mejorar AlphaFold... podrías hacerlo? ¿Cómo?
 
 ### Respuesta
 
@@ -52,10 +51,10 @@ Sí, Netflix/netflix.github.com.
 
 ## Pregunta 6
 
-> ¿Qué es Alfaphold? ¿Si quisieras ver las tripas de su código y aprender cómo está construido... o si
-> tuvieras una idea para modificar y mejorar Alfaphold... podrías hacerlo? ¿Cómo?
+> ¿Se puede patentar un software?
 
 ### Respuesta
 AlphaFold es un programa de inteligencia artificial desarrollado por DeepMind de Alphabet/Google, que utiliza redes neuronales para realizar predicciones de la estructura de las proteínas mediante el sistema de aprendizaje profundo. Existen dos estrategias básicas para aproximarse a la predicción de la estructura: la predicción de novo, en la que se suelen utilizar métodos estocásticos; y la predicción por comparación, en la que se recurre a una biblioteca de estructuras previamente conocidas. En el supuesto de que tuviera alguna idea para modificar y mejorar Alphafold, y estuviera en algun servicio en la nube de código abierto, sí podria contribuir a hacerlo.
+
 
 
