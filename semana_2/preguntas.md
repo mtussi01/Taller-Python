@@ -63,7 +63,7 @@ Julia, Python y R son los 3 principales lenguajes de programación soportados po
 
 ### Respuesta
 
-IPython es básicamente el Shell de Python "recomendado", que proporciona características adicionales. No existe un lenguaje llamado IPython. IPython es un potente intérpretador "interactivo" de Python que es más interactivo en comparación con el intérprete estándar. 
+IPython es básicamente el Shell de Python "recomendado", que proporciona características adicionales. No existe un lenguaje llamado IPython. IPython es un potente interpretador "interactivo" de Python que es más interactivo en comparación con el intérprete estándar. 
 
 Jupyter Lab, es un servidor web que envuelve el navegador y editor de Jupyter Notebooks permitiendo la inclusión de widgets y extensiones como para erigirse como un laboratorio computacional en formato web que integra la programación, la edición y visualización de un gran número de formatos de ficheros, el reporte en jupyter notebooks, el uso de terminales bash para interaccionar con la computadora o la implementación de nuevas extensiones como la integración con GitHub o la integración con Google Drive. JupyterLab ofrece más opciones de personalización e interacción y en él es más sencillo implementar extensiones.
 
