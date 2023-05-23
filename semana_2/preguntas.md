@@ -14,7 +14,7 @@ cómo hacerlo.
 ### Respuesta
 
 Phyton, Ruby, R, Pearl, MathLab son lenguajes interpretados que requieren de un interpretador para ejecutarse. No son los mas eficientes, pero son los mas sencillos e idóneos para intentar algo y los ficheros se pueden compartir. 
-Y un lenguaje compilado como Fortrand, C, C++, Erlang, Haskell, Rust o Go, pueden ser más eficientes, rápidos y no tienen un interpretador, lo que tienen es un compilador que lee el código y lo convierte a un fichero de lenguaje máquina que ya es ejecutable (por ej, en windows .exe). Es específico para la máquina en la que se está compilando y por lo tanto, no se puede compartir.
+Y un lenguaje compilado como Fortrand, C, C++, Erlang, Haskell, Rust o Go, puede ser más eficiente, rápido y no tienen un interpretador, lo que tienen es un compilador que lee el código y lo convierte a un fichero de lenguaje máquina que ya es ejecutable (por ej, en windows .exe). Es específico para la máquina en la que se está compilando y por lo tanto, no se puede compartir.
 
 ## Pregunta 2
 
@@ -63,7 +63,9 @@ Julia, Python y R son los 3 principales lenguajes de programación soportados po
 
 ### Respuesta
 
-IPython es básicamente el Shell de Python "recomendado", que proporciona características adicionales. No existe un lenguaje llamado IPython. IPython es un potente intérpretador "interactivo" de Python que es más interactivo en comparación con el intérprete estándar.  JupyterLab ofrece más opciones de personalización e interacción y en él es más sencillo aún implementar extensiones.
+IPython es básicamente el Shell de Python "recomendado", que proporciona características adicionales. No existe un lenguaje llamado IPython. IPython es un potente intérpretador "interactivo" de Python que es más interactivo en comparación con el intérprete estándar. 
+
+Jupyter Lab, es un servidor web que envuelve el navegador y editor de Jupyter Notebooks permitiendo la inclusión de widgets y extensiones como para erigirse como un laboratorio computacional en formato web que integra la programación, la edición y visualización de un gran número de formatos de ficheros, el reporte en jupyter notebooks, el uso de terminales bash para interaccionar con la computadora o la implementación de nuevas extensiones como la integración con GitHub o la integración con Google Drive. JupyterLab ofrece más opciones de personalización e interacción y en él es más sencillo implementar extensiones.
 
 ## Pregunta 8
 
