@@ -13,7 +13,8 @@ cómo hacerlo.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Phyton, Ruby, R, Pearl, MathLab son lenguajes interpretados que requieren de un interpretador para ejecutarse. No son los mas eficientes, pero son los mas sencillos e idóneos para intentar algo y los ficheros se pueden compartir. 
+Y un lenguaje compilado como Fortrand, C, C++, Erlang, Haskell, Rust o Go, pueden ser más eficientes, rápidos y no tienen un interpretador, lo que tienen es un compilador que lee el código y lo convierte a un fichero de lenguaje máquina que ya es ejecutable (por ej, en windows .exe). Es específico para la máquina en la que se está compilando y por lo tanto, no se puede compartir.
 
 ## Pregunta 2
 
@@ -21,7 +22,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Python es un lenguaje interpretado, lo que significa que ejecuta directamente el código línea por línea. Si existen errores en el código del programa, su ejecución se detiene. Así, los programadores pueden encontrar errores en el código con rapidez.
 
 ## Pregunta 3
 
@@ -29,7 +30,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Sí, Awesome Python es un repositorio de Python en GitHub que contiene los frameworks y librerías basadas en Python que se utilizan para un sinfín de cosas.
 
 ## Pregunta 4
 
@@ -37,7 +38,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+La programación modular permite: a) "Dividir la complejidad" de un problema convirtiendo problemas complejos en un conjunto de problemas más simples y por tanto más sencillos de implementar. b) "Reutilizar el código" de un programa en cualquier momento de la ejecución del mismo.
 
 ## Pregunta 5
 
@@ -45,7 +46,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+La programación orientada a objetos (POO) es un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. Resumiendo mucho, consistiría en hacer clases y crear objetos a partir de estas clases. Las clases forman el modelo a partir del que se estructuran los datos y los comportamientos.
 
 ## Pregunta 6
 
@@ -53,7 +54,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Julia, Python y R son los 3 principales lenguajes de programación soportados por JupyterLab.
 
 
 ## Pregunta 7
@@ -62,7 +63,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+IPython es básicamente el Shell de Python "recomendado", que proporciona características adicionales. No existe un lenguaje llamado IPython. IPython es un potente intérpretador "interactivo" de Python que es más interactivo en comparación con el intérprete estándar.  JupyterLab ofrece más opciones de personalización e interacción y en él es más sencillo aún implementar extensiones.
 
 ## Pregunta 8
 
@@ -70,7 +71,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+ JupyterHub es un servidor de entornos de programación online, es una versión multiusuario de los Jupyter Notebooks. 
 
 
 
